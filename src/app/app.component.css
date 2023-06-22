@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+
+.logo {
+  color: #fff;
+  margin: 1em 1em;
+  position: absolute;
+  font-family: 'Lobster', sans-serif;
+  font-size: 25px;
+}
