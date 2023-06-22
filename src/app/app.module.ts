@@ -7,6 +7,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 import { SharedModule } from './shared/shared.module';
 import { InicioModule } from './pages/inicio/inicio.module';
+import { BenchMarkModule } from './pages/bench-mark/bench-mark.module';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { InicioModule } from './pages/inicio/inicio.module';
     AppRoutingModule,
     BrowserAnimationsModule,
     SharedModule,
-    InicioModule
+    InicioModule,
+    BenchMarkModule
   ],
   providers: [],
   bootstrap: [AppComponent]
