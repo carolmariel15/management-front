@@ -2,8 +2,16 @@
 
 .logo {
   color: #fff;
-  margin: 1em 1em;
-  position: absolute;
   font-family: 'Lobster', sans-serif;
   font-size: 25px;
+  background-color: #0787d1;
+  position: fixed;
+  box-shadow: 0 0px 10px 0 rgba(102, 102, 102, 0.432);
+}
+
+.end {
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  padding: 10px;
 }

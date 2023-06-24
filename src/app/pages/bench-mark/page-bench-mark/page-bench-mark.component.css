@@ -1,0 +1,29 @@
+.container {
+  padding: 2em 4em;
+}
+
+.filter {
+  width: 100%;
+  margin: 0 0 2em 0;
+  font-size: 20px;
+}
+
+.bt-new {
+  color: #0787d1;
+  transform: scale(2);
+}
+
+
+
+.table {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.bt-edit {
+  color: rgb(48, 179, 107);
+}
+
+.bt-delete {
+  color: rgb(212, 45, 45);
+}
